@@ -22,5 +22,12 @@ python .\vggnet\train.py
 python .\vggnet\predict.py
 ```
 
+## 4. GoogleNet
+
+```
+python.exe .\GoogleNet\train.py
+python.exe .\GoogleNet\predict.py
+```
+
 ## reference
 + [霹雳吧啦Wz](https://www.bilibili.com/video/BV1r7411T7M5)

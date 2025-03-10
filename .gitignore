@@ -1,0 +1,4 @@
+*aienv*
+*.pth*
+*vscode*
+*pycache*

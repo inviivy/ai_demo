@@ -21,3 +21,6 @@ python train.py
 python .\vggnet\train.py
 python .\vggnet\predict.py
 ```
+
+## reference
++ [霹雳吧啦Wz](https://www.bilibili.com/video/BV1r7411T7M5)
